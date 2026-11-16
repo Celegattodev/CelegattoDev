@@ -20,20 +20,6 @@
   <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></img>
 </div>
 
-## Ciao! 👋 Mi chiamo `Murilo Celegatto`, e io...
-
-- 📍 Nasci, cresci e moro em São Paulo, SP, Brasil;
-- 🎓 Atualmente estudo **Desenvolvimento de Software Multiplataforma** (3/6) na **FATEC Zona Leste**;
-- 🖥️ Me interessei por programação e tecnologia aos 12 anos;
-- 🎯 Atualmente, meu foco está em **C#, .NET e SQL Server**;
-- 👁‍🗨 Sempre estou caçando novos desafios.
-
-<img height=30 src="https://cdn-icons-png.flaticon.com/512/6211/6211426.png"></img>
-- 📍 *Sono nato, cresciuto e vivo a São Paulo, SP, Brasile;*
-- 🎓 *Attualmente studio **Sviluppo Software Multiplataforma** (3/6) alla **FATEC Zona Leste**;*
-- 🖥️ *Mi sono interessato alla programmazione e alla tecnologia all'età di 12 anni;*
-- 🎯 *Il mio focus attuale è su **C#, .NET e SQL Server**;*
-- 👁‍🗨 *Sto sempre cercando nuove sfide.*
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CelegattoDev&show_icons=true&theme=react&include_all_commits=true&custom_title=oComeço&locale=pt-br&hide=contribs"/>

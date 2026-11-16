@@ -1,6 +1,5 @@
 <div>
   <img height=35 src="https://www.svgrepo.com/show/184143/java.svg"></img>
-  <img height=35 src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"></img>
   <img height=35 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
   <img height=35 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
   <img height=35 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
@@ -8,14 +7,6 @@
   <img height=35 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
   <img height=35 src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png"></img>
   <img height=35 src="https://www.svgrepo.com/show/354099/mysql.svg"></img>
-  <img height=35 src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"></img>
-  <img height=35 src="https://img.icons8.com/fluent/512/replit.png"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png"></img>
-  <img height=35 src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></img>
 </div>
 
 <div align=center>

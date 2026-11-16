@@ -1,6 +1,4 @@
 <div>
-  <img height=35 src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png"></img>
-  <img height=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></img>
   <img height=35 src="https://www.svgrepo.com/show/184143/java.svg"></img>
   <img height=35 src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"></img>
   <img height=35 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
@@ -34,18 +32,15 @@
 
 ---
 
-## 🚀 I miei principali progetti
+## Meus projetos principais
 
 ### 📚 [Buku.com](https://github.com/CelegattoDev/2Buku.com)
 Uma plataforma que intermedia, agiliza e incentiva a troca de livros físicos entre pessoas de uma mesma região. <br>
-*Una piattaforma che media, accelera e incoraggia lo scambio di libri fisici tra persone della stessa regione.*
 
 ### 🐶 [CentterPet](https://github.com/CelegattoDev/CentterPet)
 Uma plataforma que centraliza ONGs de adoção de animais, facilitando o cadastro de pets e incentivando a adoção responsável. <br>
-*Una piattaforma che centralizza le ONG di adozione di animali, facilitando la registrazione degli animali e promuovendo l'adozione responsabile.*
-
 ---
-### 📫 Parla con me, ti ascolto!
+### 📫 Chega mais!
 
 <a href="https://www.linkedin.com/in/murilo-celegatto-oliveira-399a782aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.instagram.com/m.celegatto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit"></img></a>

@@ -9,18 +9,6 @@
   <img height=35 src="https://www.svgrepo.com/show/354099/mysql.svg"></img>
 </div>
 
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CelegattoDev&show_icons=true&theme=react&include_all_commits=true&custom_title=oComeço&locale=pt-br&hide=contribs"/>
-  </a>
-</div>
-<br>
-<div align=center>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelegattoDev&layout=donut&theme=react&custom_title=Linguagens&hide=css"/>
-  </a>
-</div>
-
 ---
 
 ## Meus projetos principais
